@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab4/1.0.0": {
+        "dependencies": {
+          "UnitTestProject2": "1.0.0"
+        },
+        "runtime": {
+          "Lab4.dll": {}
+        }
+      },
+      "UnitTestProject2/1.0.0": {
+        "runtime": {
+          "UnitTestProject2.dll": {}
+        }
+      },
+      "Microsoft.VisualStudio.TestPlatform.TestFramework/14.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.2505.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitTestProject2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.TestPlatform.TestFramework/14.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
